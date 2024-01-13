@@ -1,1 +1,4 @@
 
+[submodule "git-diff-project"]
+	path = git-diff-project
+	url = git@github.com:Dia-Cer0/git-diff-project.git
