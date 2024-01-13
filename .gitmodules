@@ -1,0 +1,3 @@
+[submodule "git-diff-project"]
+	path = git-diff-project
+	url = ./git-diff-project
