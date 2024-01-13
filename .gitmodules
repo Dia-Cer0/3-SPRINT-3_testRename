@@ -2,3 +2,6 @@
 [submodule "git-diff-project"]
 	path = git-diff-project
 	url = git@github.com:Dia-Cer0/git-diff-project.git
+[submodule "new-folder"]
+	path = new-folder
+	url = git@github.com:Dia-Cer0/new-folder.git
