@@ -5,3 +5,6 @@
 [submodule "new-folder"]
 	path = new-folder
 	url = git@github.com:Dia-Cer0/new-folder.git
+[submodule "adding_Fonts"]
+	path = adding_Fonts
+	url = git@github.com:Dia-Cer0/adding_Fonts.git
