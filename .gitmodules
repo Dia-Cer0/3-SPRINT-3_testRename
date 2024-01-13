@@ -8,3 +8,6 @@
 [submodule "adding_Fonts"]
 	path = adding_Fonts
 	url = git@github.com:Dia-Cer0/adding_Fonts.git
+[submodule "se_project_aroundtheus"]
+	path = se_project_aroundtheus
+	url = git@github.com:Dia-Cer0/se_project_aroundtheus.git
